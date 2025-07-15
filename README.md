@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**g-eorgealwin/g-eorgealwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Violet Typing Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&width=500&lines=Hello+World+%F0%9F%91%8B;I'm+Alwin+George" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Short Description -->
+<p>
+  <em>Cybersecurity Specialist | CRM Integration Expert | Full-Stack Developer</em><br>
+  Final year B.Tech student passionate about ethical hacking,<br>
+  secure software development, and business automation.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<p align="center">
+  <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/HelloWorld.gif?raw=true" width="400" alt="Hello World animation">
+</p>
+
+<p align="center">
+  <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Coding%20Slide%20(2).gif?raw=true" width="350" alt="Studying animation">
+</p>
+
+<p align="center">
+  <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Coding.gif?raw=true" width="350" alt="Coding animation">
+</p>
+
+---
+
+## 🛡️ Cybersecurity Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nmap-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+</p>
+
+---
+
+## 🧰 Development Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+---
+
+## ☁️ CRM Expertise
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:alwin4778@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alwin-george-083231254/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/game%20app.gif?raw=true" width="380" alt="Game end animation" />
+</p>
