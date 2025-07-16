@@ -47,10 +47,10 @@ secure software development, and business automation.</p>
 
 ---
 
-<!-- 📢 Violet Animated Text Above CV Button -->
+<!-- 📢 Violet Animated Typing Text + Down Arrow -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&lines=Click+the+pointer+to+view+CV" alt="Download CV Text Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=420&lines=Click+the+pointer+to+view+CV+%F0%9F%91%87" alt="Click the pointer to view CV" />
   </a>
 </p>
 
