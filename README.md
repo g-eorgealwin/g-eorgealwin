@@ -8,24 +8,15 @@
 </p>
 
 <!-- Short Description -->
-<p>
-  <em>Cybersecurity Specialist | CRM Integration Expert | Full-Stack Developer</em><br>
-  Final year B.Tech student passionate about ethical hacking,<br>
-  secure software development, and business automation.
-</p>
+<p><em>Cybersecurity Specialist | CRM Integration Expert | Full-Stack Developer</em><br>
+Final year B.Tech student passionate about ethical hacking,<br>
+secure software development, and business automation.</p>
 
 </div>
-<p align="center">
-  <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/HelloWorld.gif?raw=true" width="400" alt="Hello World animation">
-</p>
 
-<p align="center">
-  <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Coding%20Slide%20(2).gif?raw=true" width="350" alt="Studying animation">
-</p>
-
-<p align="center">
-  <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Coding.gif?raw=true" width="350" alt="Coding animation">
-</p>
+<p align="center"><img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/HelloWorld.gif?raw=true" width="400" alt="Hello World animation"></p>
+<p align="center"><img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Coding%20Slide%20(2).gif?raw=true" width="350" alt="Studying animation"></p>
+<p align="center"><img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Coding.gif?raw=true" width="350" alt="Coding animation"></p>
 
 ---
 
@@ -56,6 +47,20 @@
 
 ---
 
+<!-- 📢 Violet Animated Text Above CV Button -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&lines=Click+the+pointer+to+view+CV" alt="Download CV Text Animation" />
+  </a>
+</p>
+
+<!-- 📄 CV Download Button (GIF) -->
+<p align="center">
+  <a href="https://github.com/g-eorgealwin/g-eorgealwin/raw/main/github%20cv.pdf" target="_blank">
+    <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Click%20here.gif?raw=true" width="200" alt="Click to view CV" />
+  </a>
+</p>
+
 ## 📫 Let's Connect
 <p align="center">
   <a href="mailto:alwin4778@gmail.com">
@@ -65,6 +70,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
 <p align="center">
   <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/game%20app.gif?raw=true" width="380" alt="Game end animation" />
 </p>
