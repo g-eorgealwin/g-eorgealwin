@@ -56,7 +56,7 @@ secure software development, and business automation.</p>
 
 <!-- 📄 CV Download Button (Updated GIF) -->
 <p align="center">
-  <a href=https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Alwin%20git%20.pdf target="_blank">
+  <a href="https://github.com/g-eorgealwin/g-eorgealwin/raw/main/Alwin%20git%20%20(1).pdf" target="_blank" download>
     <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Main%20Scene%20(1).gif?raw=true" width="200" alt="Click to view CV" />
   </a>
 </p>
