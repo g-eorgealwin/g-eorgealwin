@@ -50,14 +50,14 @@ secure software development, and business automation.</p>
 <!-- 📢 Violet Animated Typing Text + Down Arrow -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=420&lines=Click+the+pointer+to+view+CV+%F0%9F%91%87" alt="Click the pointer to view CV" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=420&lines=Click+the+button+to+view+CV+%F0%9F%91%87" alt="Click the pointer to view CV" />
   </a>
 </p>
 
-<!-- 📄 CV Download Button (GIF) -->
+<!-- 📄 CV Download Button (Updated GIF) -->
 <p align="center">
   <a href="https://github.com/g-eorgealwin/g-eorgealwin/raw/main/github%20cv.pdf" target="_blank">
-    <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Click%20here.gif?raw=true" width="200" alt="Click to view CV" />
+    <img src="https://github.com/g-eorgealwin/g-eorgealwin/blob/main/Main%20Scene%20(1).gif?raw=true" width="200" alt="Click to view CV" />
   </a>
 </p>
 
