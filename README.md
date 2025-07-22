@@ -8,7 +8,7 @@
 </p>
 
 <!-- Short Description -->
-<p><em>Cybersecurity Specialist | CRM Integration Expert | Full-Stack Developer</em><br>
+<p><em>Cybersecurity enthusiast | CRM Integration | Full-Stack Developer</em><br>
 Final year B.Tech student passionate about ethical hacking,<br>
 secure software development, and business automation.</p>
 
