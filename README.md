@@ -50,7 +50,7 @@ secure software development, and business automation.</p>
 <!-- 📢 Violet Animated Typing Text + Down Arrow -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=420&lines=Click+the+button+to+view+CV+%F0%9F%91%87" alt="Click the pointer to view CV" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=420&lines=Click+the+button+to+know+more+%F0%9F%91%87" alt="Click the button to know more" />
   </a>
 </p>
 
